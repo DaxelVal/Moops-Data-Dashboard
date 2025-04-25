@@ -38,23 +38,23 @@ El conjunto de datos utilizado contiene información sobre:
 
 ## Métricas clave (KPIs)
 
-- **Producto más vendido**: Fundas para iPhone
-- **Modelo más vendido**: iPhone, seguido por Samsung
-- **Red social más efectiva**: Instagram
-- **Ingreso total registrado**: `$XXXX` *(lo calculamos ahorita)*
-- **Ticket promedio por cliente**: `$XXX`
-- **Cliente más frecuente**: Nombre Cliente X *(si tienes nombre repetido)*
-- **Temporada más alta**: Abril *(lo ajustamos si cambian los datos)*
+- **Producto más vendido**: Fundas personalizada (Fundas reforzadas de 3 capas), sewguido del modelo mas vendido que es de Iphone y Samsung
+- **Red social más efectiva**: Instagram -- Teniendo en cuenta el crecimiento gracias a la plataforma de tiktok por publicidad en tendencia.
+- **Ingreso total registrado**: `$72820` -- Solo de los pedidos completos 
+- **Mes/Meses con mas ventas**: Enero, Abril y Diciembre, haciendo Diciembre y Abril los meses con mas ventas esto por las tendencias previstas.
+- **Temporada más alta**: Abril
+- **Estado donde más se envian productos**: Guadalajara como el estado donde mas se envian productos, esto por el registro de ventas que hay en el estado.
+
 
 ---
 
 ## Insights Accionables
 
 - Se podría dejar de fabricar productos para modelos poco vendidos como Vivo o Honor.
-- Instagram es la red con mejor conversión, vale la pena invertir más en contenido para esa red.
+- Instagram es la red con mejor conversión, vale la pena invertir más en contenido para esa red, acompañada de tiktok que hacen buen juego juntos.
 - Hay una oportunidad de mercado no explorada en celulares menos comunes (estrategia Blue Ocean).
 - Abril mostró un pico de ventas, podrías aprovechar y lanzar promociones estacionales.
-
+- Encontrar estrategias para los meses con las ventas mas escasas para cumplir con las metas necesarias.
 ---
 
 ## Cómo usar este análisis
